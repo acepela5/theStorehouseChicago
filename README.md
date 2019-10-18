@@ -35,3 +35,5 @@ Once you are ready to checkout, you can click the cart icon on the nav bar and i
 * Jenni Birsan (jupiter)
 * Jimi Loc Nguyen (venus)
 * Adi Cepela (mars)
+
+![sailor-moon-gif](https://66.media.tumblr.com/e54e204298bdd504f6e02cc6e70c71a5/tumblr_orecgaVqux1va4s21o1_400.gifv)
